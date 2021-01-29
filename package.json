@@ -1,0 +1,13 @@
+{
+  "name": "CubicSunBeta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "firebase": "^8.2.2",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1"
+  }
+}
